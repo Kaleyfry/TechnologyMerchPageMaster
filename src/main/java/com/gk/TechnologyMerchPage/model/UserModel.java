@@ -1,4 +1,4 @@
-package com.gk.TechnologyMerchPage.model;
+package com.tts.EcommerceProject.model;
 
 import javax.persistence.Access;
 import javax.persistence.Column;

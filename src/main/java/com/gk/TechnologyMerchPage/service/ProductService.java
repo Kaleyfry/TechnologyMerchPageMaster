@@ -1,4 +1,4 @@
-package com.gk.TechnologyMerchPage.service;
+package com.tts.EcommerceProject.service;
 
 public class ProductService {
 
