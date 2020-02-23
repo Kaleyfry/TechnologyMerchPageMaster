@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import com.gk.TechnologyMerchPage.model.User;
 
 @Repository
-public interface UserRepository extends CrudRepository<UserModel, Long>{
+public interface UserRepository extends CrudRepository<User, Long>{
 
-	UserModel findByUsername(String username);
+//	User findByUsername(String username);
 }
