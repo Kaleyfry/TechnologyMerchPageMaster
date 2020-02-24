@@ -12,6 +12,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestParam;
 
+import com.gk.TechnologyMerchPage.model.Product;
+//import com.gk.TechnologyMerchPage.service.ProductService;
+
 import lombok.Data;
 
 @Data

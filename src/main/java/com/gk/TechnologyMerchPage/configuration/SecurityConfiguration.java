@@ -4,7 +4,7 @@ import java.util.Collection;
 
 import javax.persistence.Transient;
 
-import org.springframework.security.core.GrantedAuthority;
+//import org.springframework.security.core.GrantedAuthority;
 
 public class SecurityConfiguration { //extends UserDetails{
 
